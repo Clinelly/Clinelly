@@ -22,8 +22,8 @@ My linkedin profile: <a target="_blank" href="https://www.linkedin.com/in/swall2
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)
-![React](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=React&logoColor=21ACE2)
-![Vue](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=Vue&logoColor=21ACE2)
+![React](https://img.shields.io/badge/React%20-%231E2E3B.svg?&style=for-the-badge&logo=React&logoColor=21ACE2)
+![Vue](https://img.shields.io/badge/Vue%20-%231E2E3B.svg?&style=for-the-badge&logo=Vue&logoColor=21ACE2)
 ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
 ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
