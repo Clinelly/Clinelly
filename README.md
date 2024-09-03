@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a Junior Software Developer, currently undertaking a Diploma in Full-Stack Development with Code Institute. 
+I am a Software Developer, with a Diploma in Full-Stack Development with Code Institute. 
+I am currently working as a consultant with the Digital Transformation Squad.
 
 
 My linkedin profile: <a target="_blank" href="https://www.linkedin.com/in/swall289/"><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
